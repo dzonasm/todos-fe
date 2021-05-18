@@ -1,0 +1,15 @@
+.login {
+	margin: 30px auto;
+	flex-direction: column;
+	display: flex;
+	justify-content: center;
+}
+
+.submit-btn {
+	display: flex;
+	justify-content: center;
+	margin: 16px auto;
+	padding: 9px 18px;
+	width: 80px;
+	text-transform: uppercase;
+}
